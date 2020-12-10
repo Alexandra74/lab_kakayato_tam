@@ -125,4 +125,4 @@ int main()
 
 Пример работы представлен в видео ниже:
 
-image::https://github.com/Alexandra74/work_number_mnogo/blob/main/Photo/MOV_0289%20(1).gif[]
+image::https://github.com/Alexandra74/lab_kakayato_tam/blob/main/Photo/MOV_0289%20(1).gif[]
